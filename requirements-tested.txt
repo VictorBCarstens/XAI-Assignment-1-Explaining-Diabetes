@@ -1,0 +1,14 @@
+# Validation environment: Python 3.12.14, Linux CPU.
+# This is not the original report-run environment.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+lime==0.2.0.1
+shap==0.54.1
+torch==2.14.1
+jupyterlab==4.6.4
+ipykernel==7.4.0
+nbformat==5.11.1
+nbclient==0.11.0
