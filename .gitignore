@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Generated submission evidence and isolated environments
+/results/
+/.venv/
+
+# Assignment 1 generated evidence and environments
+/Assignment 1/results/
+/Assignment 1/.venv/
